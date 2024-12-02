@@ -66,6 +66,9 @@ Mi objetivo es seguir creciendo profesionalmente y colaborar en proyectos innova
 ### Redes Sociales
 
 <p align="left">
+ <a href="https://j-david-medina.github.io/portafolio/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" alt="Web" />
+  </a>  
   <a href="https://www.github.com/J-David-Medina" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
