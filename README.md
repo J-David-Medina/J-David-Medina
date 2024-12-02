@@ -66,16 +66,19 @@ Mi objetivo es seguir creciendo profesionalmente y colaborar en proyectos innova
 ### Redes Sociales
 
 <p align="left">
- <a href="https://j-david-medina.github.io/portafolio/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/globe--v1.png" width="32" height="32" alt="Web" />
+  <a href="https://j-david-medina.github.io/portafolio/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/ios/50/globe--v1.png" width="32" height="32" alt="Web" style="filter: invert(1) grayscale(1) brightness(100%) sepia(100%) hue-rotate(180deg);" />
   </a>  
+
   <a href="https://www.github.com/J-David-Medina" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/juan-david-agudelo-30b24b22b/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 ---
